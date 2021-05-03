@@ -1,13 +1,12 @@
 [iTerm v2](https://iterm2.com) profiles and fonts
 =======================================================
-Profiles prepared by myself.
 
 Colour schemas:
 ---------------
-
 **Hacking**
-
+![image](https://github.com/d3vilh/iTerm_profiles/blob/master/Colour_Schemas/Hacking_mini.png)
 **Philipp**
+![image](https://github.com/d3vilh/iTerm_profiles/blob/master/Colour_Schemas/Philipp_mini.png)
 
 Fonts
 -----
